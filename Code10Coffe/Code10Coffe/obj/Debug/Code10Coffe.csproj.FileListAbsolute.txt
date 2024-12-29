@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\bin\Debug\Code10Coffe.exe.config
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\bin\Debug\Code10Coffe.exe
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\bin\Debug\Code10Coffe.pdb
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\obj\Debug\Code10Coffe.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\obj\Debug\Code10Coffe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\obj\Debug\Code10Coffe.exe
+C:\Users\LENOVO\source\repos\Code10Coffe\Code10Coffe\obj\Debug\Code10Coffe.pdb
